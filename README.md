@@ -7,6 +7,9 @@ AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
+## link to website
+https://gentle-anchorage-71827-f9d15afc2e83.herokuapp.com/notes
+
 Acceptance Criteria
 - GIVEN a note-taking application
 - WHEN I open the Note Taker
@@ -24,3 +27,6 @@ Acceptance Criteria
 ![image](https://github.com/Nefta007/thoughtNoteTaker/assets/135322031/8847a224-20bf-4d3e-991f-61218df070b4)
 
 ![image](https://github.com/Nefta007/thoughtNoteTaker/assets/135322031/6205ae52-b656-49a9-8b73-8e90995986bc)
+
+![image](https://github.com/Nefta007/thoughtNoteTaker/assets/135322031/a415480b-b836-4593-a767-fd1930ec3032)
+
